@@ -14,6 +14,8 @@ A powerful and easy-to-use virtual steering addon for Godot Engine, designed to 
 
 ---
 
+<img src="">
+
 ## How to Use
 
 1. **Download the Addon**:
