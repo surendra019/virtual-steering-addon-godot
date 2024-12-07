@@ -42,6 +42,6 @@ A powerful and easy-to-use virtual steering addon for Godot Engine, designed to 
 - **Rotation Limits**:
   - Understand the difference between `handle_rotation_limit` and `steering_rotation_limit`:
     - `handle_rotation_limit`: Maximum visual rotation angle of the handle in degrees.
-    - `steering_rotation_limit`: Maximum steering angle returned by the `get_steering()` function based on handle rotation.
+    - `steering_rotation_limit`: Maximum steering angle returned by the `get_steering()` function based on handle rotation (in degrees).
 
 ---
