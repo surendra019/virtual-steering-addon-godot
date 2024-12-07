@@ -51,4 +51,5 @@ A powerful and easy-to-use virtual steering addon for Godot Engine, designed to 
 - **Handle Return Speed**:
   - `handle_return_speed` is used for changing the handle return speed when it is released.
 
+- Make sure to enable `Emulate touch from mouse` in Project Settings.
 ---
