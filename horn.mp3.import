@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4i6sjbd80ins"
+path="res://.godot/imported/horn.mp3-777aaa08e45a426df29970e1745f7a10.mp3str"
+
+[deps]
+
+source_file="res://addons/Virtual Steering/horn.mp3"
+dest_files=["res://.godot/imported/horn.mp3-777aaa08e45a426df29970e1745f7a10.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
