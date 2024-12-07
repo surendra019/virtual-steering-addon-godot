@@ -44,4 +44,7 @@ A powerful and easy-to-use virtual steering addon for Godot Engine, designed to 
     - `handle_rotation_limit`: Maximum visual rotation angle of the handle in degrees.
     - `steering_rotation_limit`: Maximum steering angle returned by the `get_steering()` function based on handle rotation (in degrees).
 
+- **Handle Return Speed**:
+  - `handle_return_speed` is used for changing the handle return speed when it is released.
+
 ---
